@@ -48,7 +48,7 @@ json5==0.9.14
 jsonargparse==3.13.1
 jupyter-client==7.3.4
 jupyter-core==4.11.1
-keras==2.9.0
+keras==3.0.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.4
 libclang==14.0.1
