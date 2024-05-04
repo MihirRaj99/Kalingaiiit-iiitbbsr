@@ -63,11 +63,11 @@ multidict==6.0.5
 nest-asyncio==1.5.5
 networkx==3.2.1
 nibabel==4.0.1
-numpy==1.23.1
+numpy==1.26.4
 oauthlib==3.2.0
 opt-einsum==3.3.0
 packaging==21.3
-pandas==2.1.0
+pandas==2.2.2
 parso==0.8.3
 pexpect==4.8.0
 pickleshare==0.7.5
